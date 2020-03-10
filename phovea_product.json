@@ -1,0 +1,9 @@
+[
+  {
+    "type": "api",
+    "label": "qs_server",
+    "repo": "phovea/phovea_server",
+    "branch": "develop",
+    "additional": []
+  }
+]

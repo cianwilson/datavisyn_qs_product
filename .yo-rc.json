@@ -1,0 +1,15 @@
+{
+  "generator-phovea": {
+    "type": "product",
+    "name": "datavisyn_qs_product",
+    "author": "Cian Wilson",
+    "today": "Tue, 10 Mar 2020 19:14:10 GMT",
+    "githubAccount": "cianwilson",
+    "promptValues": {
+      "authorName": "Cian Wilson",
+      "authorEmail": "cwilson@carnegiescience.edu",
+      "authorUrl": "",
+      "githubAccount": "cianwilson"
+    }
+  }
+}
